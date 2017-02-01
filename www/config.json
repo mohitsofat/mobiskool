@@ -10,7 +10,7 @@
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "siteurl": "http://mobiskool.com",
+    "siteurl": "http://www.mobiskool.com",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false"
 }
