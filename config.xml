@@ -2,7 +2,7 @@
 <widget id="com.mobile.mobiskool" version="3.2.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
   <name>MobiSkool</name>
   <description>Mobiskool app</description>
-  <author href="http://mobiskool.com" email="info@mobiskool">MobiSkool</author>
+  <author href="http://www.mobiskool.com" email="info@mobiskool">MobiSkool</author>
   <content src="index.html"/>
   <access origin="*"/>
   <allow-navigation href="cdvfile:*"/>
